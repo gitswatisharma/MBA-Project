@@ -1,0 +1,24 @@
+{
+  "Users": [
+    {
+      "Name": "",
+      "Arrival": -1,
+      "Departure": -1
+    },
+    {
+      "Name": "Shubham Sharma",
+      "Arrival": 3,
+      "Departure": 5
+    },
+    {
+      "Name": "Sahil Jamwal",
+      "Arrival": 7,
+      "Departure": 8
+    },
+    {
+      "Name": "Kunal",
+      "Arrival": 11,
+      "Departure": 15
+    }
+  ]
+}
